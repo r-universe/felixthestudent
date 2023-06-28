@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cellpypes"]
 	path = cellpypes
 	url = https://github.com/felixthestudent/cellpypes
-	shallow = true
-	registered = true
 [submodule "scUtils"]
 	path = scUtils
 	url = https://github.com/felixthestudent/scutils
-	shallow = true
-	registered = true
